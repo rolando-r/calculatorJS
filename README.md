@@ -13,8 +13,8 @@ This web page presents a simple calculator created with HTML, CSS, and JavaScrip
 
 ## Screenshots
 
-![Light Theme Calculator](https://i.postimg.cc/bdtTPJcD/Captura-de-pantalla-2023-08-03-182423.png) 🌞
-![Dark Theme Calculator](https://i.postimg.cc/dZrmjWmm/Captura-de-pantalla-2023-08-03-182327.png) 🌚
+![Light Theme Calculator](https://i.postimg.cc/fSspGbfp/Captura-de-pantalla-2023-08-07-153400.png) 🌞
+![Dark Theme Calculator](https://i.postimg.cc/sGJqsRnX/Captura-de-pantalla-2023-08-07-153413.png) 🌚
 
 ## Usage Instructions
 
